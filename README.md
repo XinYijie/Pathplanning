@@ -1,5 +1,5 @@
 # Pathplanning
-3D print path planning ,generate gcode from stl model
+3D print path planning, generate gcode from stl model
 ## Test function
 use these ```Test_*.py```
 ## To Run the whole project
