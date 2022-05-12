@@ -1,0 +1,22 @@
+GemoBase.py
+Line.py
+Ray.py
+Segment.py
+Polyline.py
+Plane.py
+GemoAlgo.py
+VtkAdaptor.py
+Triangle.py
+StlModel.py ???
+Layer.py
+SliceAlgo.py ???
+SliceModel.py
+IntersectStl_sweep.py
+LinkPoint.py
+LinkSegs_dorder.py
+MakeMessySeg.py
+TopoSlicer.py
+ClipperAdaptor.py
+PolyPrcSeeker.py
+Utility.py
+GenCpPath.py
