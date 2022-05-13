@@ -1,6 +1,6 @@
 from GenNcCode import *
 
-modelName = 'ironman_2'
+modelName = 'MysticNecklace'
 stlModel = StlModel()
 stlModel.readStlFile('./model/%s.stl' % modelName)
 printParams = PrintParams(stlModel)

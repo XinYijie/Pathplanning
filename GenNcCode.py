@@ -8,7 +8,7 @@ class PrintParams:
     def __init__(self, stlModel, ffFlag=1, sfFlag=0):
         self.stlModel = stlModel
         # self.layerThk, self.shellThk, self.endThk = 0.2, 2.0, 2.0
-        self.layerThk, self.shellThk, self.endThk = 0.5, 2.0, 2.0
+        self.layerThk, self.shellThk, self.endThk = 0.2, 2.0, 2.0
         self.sfRate, self.fillAngle = 0.2, 0.0
         self.sptOn = False
         self.sptCrAngle = degToRad(60.0)
